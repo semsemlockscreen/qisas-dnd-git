@@ -4,10 +4,10 @@ var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
 		{name:"kharbouch_atlas_1", frames: [[0,1580,1392,354],[0,0,788,788],[0,790,788,788],[790,0,788,788],[790,790,788,788]]},
-		{name:"kharbouch_atlas_2", frames: [[689,620,687,607],[689,1229,687,606],[0,620,687,613],[0,0,687,618],[0,1235,687,612],[689,0,687,618]]},
-		{name:"kharbouch_atlas_3", frames: [[689,602,687,597],[0,1200,687,591],[0,0,687,602],[0,604,687,594],[689,0,687,600],[689,1201,687,588]]},
-		{name:"kharbouch_atlas_4", frames: [[0,0,687,586],[689,0,687,581],[0,1172,687,576],[341,1889,339,144],[0,588,687,582],[689,583,687,576],[0,1889,339,149],[1641,1622,339,141],[1641,1477,339,143],[689,1161,687,570],[1300,1733,318,190],[1378,1469,261,261],[689,1733,359,182],[1050,1733,248,244],[1620,1765,195,242],[1729,756,248,244],[1378,0,499,754],[1817,1765,195,242],[1729,1002,257,222],[1378,1133,329,334],[1378,756,349,375],[0,1750,574,137],[1709,1226,206,249]]},
-		{name:"kharbouch_atlas_5", frames: [[1728,724,32,45],[808,971,43,51],[670,244,42,51],[672,1101,102,102],[1635,724,44,45],[1753,0,194,225],[682,971,124,128],[611,1008,43,50],[1388,135,19,114],[1934,227,97,169],[1949,0,66,220],[730,137,201,215],[1624,960,269,48],[1624,1010,269,48],[1289,1011,269,48],[808,1058,269,48],[1017,1008,270,48],[1564,858,270,49],[1564,909,270,49],[1352,960,270,49],[338,1039,271,50],[399,1091,271,49],[126,1091,271,50],[1412,133,339,130],[730,0,339,135],[1412,0,339,131],[0,244,339,139],[197,0,339,137],[1071,0,339,133],[533,354,339,120],[874,379,339,116],[1252,265,339,125],[0,385,339,111],[0,498,339,107],[525,476,339,102],[1215,492,339,93],[1215,392,339,98],[0,607,339,84],[0,693,339,80],[341,670,339,81],[525,580,339,88],[1080,587,339,82],[0,775,339,77],[341,753,339,78],[1421,646,339,76],[1294,724,339,74],[672,1089,8,8],[341,833,339,72],[1635,783,339,73],[338,978,244,59],[0,854,339,70],[1954,566,88,117],[1895,950,115,90],[1976,685,64,147],[866,497,212,141],[682,670,175,153],[1077,671,215,119],[1212,800,215,93],[855,917,160,110],[1252,135,134,128],[0,926,190,111],[1762,646,190,135],[682,825,171,144],[933,137,124,161],[866,640,209,132],[1040,792,170,139],[1936,566,12,46],[859,774,179,141],[1017,917,18,46],[859,752,4,10],[656,1044,10,39],[859,728,5,10],[1403,251,6,12],[672,978,8,15],[672,995,6,11],[656,1008,22,34],[859,740,5,10],[842,1024,9,20],[668,1076,11,11],[1714,768,11,11],[1677,775,1,1],[2008,441,27,45],[1294,671,123,50],[1743,325,7,7],[1745,771,14,8],[1743,334,7,7],[645,1085,4,4],[1412,895,15,39],[1879,950,8,8],[1743,296,8,8],[1681,768,13,13],[651,1085,4,4],[1889,957,1,1],[1892,957,1,1],[1836,858,123,90],[584,978,86,28],[1895,1042,67,129],[663,1085,3,3],[1670,778,3,2],[1889,950,4,5],[645,1060,4,5],[525,412,6,8],[623,1085,6,4],[1677,771,2,2],[126,1039,64,48],[1564,800,65,56],[1664,778,4,3],[1739,643,1,1],[1657,778,5,3],[1866,950,11,6],[1743,343,7,7],[859,764,5,6],[1742,643,1,1],[525,442,5,6],[1743,352,7,7],[1234,792,9,5],[1936,633,13,10],[1352,895,58,60],[1727,771,16,7],[1635,778,9,3],[1743,361,7,7],[1696,768,16,8],[1743,370,7,7],[584,1033,15,4],[1730,626,7,17],[1743,265,8,14],[1708,626,10,12],[668,1044,11,15],[859,711,4,15],[1696,778,15,3],[1646,778,9,3],[525,431,4,9],[1739,626,5,15],[1836,950,14,6],[1057,774,14,13],[1743,281,8,13],[631,1085,5,4],[638,1085,5,4],[1743,306,8,8],[866,494,1,1],[2037,441,7,7],[869,494,1,1],[1852,950,12,7],[525,422,6,7],[525,450,5,6],[1743,316,8,7],[1695,626,11,14],[1961,858,64,66],[1212,792,9,6],[1635,771,19,5],[1656,771,19,5],[1223,792,9,6],[1233,379,15,7],[1720,626,8,15],[1708,640,10,4],[668,1061,12,13],[525,383,6,15],[859,670,5,20],[1215,379,16,7],[611,1085,10,4],[1040,774,15,13],[1388,251,13,10],[866,476,6,16],[525,400,6,10],[1936,614,12,17],[859,692,4,17],[1720,643,1,1],[1723,643,1,1],[1675,778,3,2],[525,472,4,2],[525,458,5,5],[601,1033,8,4],[525,465,5,5],[657,1085,4,4],[670,348,4,4],[1681,724,45,42],[670,297,42,49],[2008,398,30,41],[1695,567,46,57],[1556,392,188,173],[1936,398,70,166],[1746,471,188,173],[1593,265,148,106],[1080,497,133,86],[533,244,135,104],[1429,800,133,117],[197,139,135,82],[1212,895,138,111],[192,926,144,138],[0,1039,124,146],[341,907,339,69],[1421,587,272,51],[341,383,182,201],[538,0,190,242],[1753,227,179,242],[808,1024,32,28],[341,139,190,242],[1071,135,179,242],[584,1008,21,23],[0,0,195,242]]}
+		{name:"kharbouch_atlas_2", frames: [[689,620,687,607],[0,620,687,613],[0,0,687,618],[689,1229,687,606],[0,1235,687,612],[689,0,687,618]]},
+		{name:"kharbouch_atlas_3", frames: [[0,1200,687,591],[689,602,687,597],[0,0,687,602],[689,0,687,600],[0,604,687,594],[689,1201,687,588]]},
+		{name:"kharbouch_atlas_4", frames: [[0,1172,687,576],[0,0,687,586],[689,0,687,581],[0,588,687,582],[341,1889,339,144],[1641,1477,339,143],[689,583,687,576],[0,1889,339,149],[1641,1622,339,141],[689,1161,687,570],[1300,1733,318,190],[1378,1469,261,261],[689,1733,359,182],[1050,1733,248,244],[0,1750,574,137],[1620,1765,195,242],[1817,1765,195,242],[1729,756,248,244],[1378,0,499,754],[1729,1002,257,222],[1378,1133,329,334],[1709,1226,206,249],[1378,756,349,375]]},
+		{name:"kharbouch_atlas_5", frames: [[670,244,42,51],[1635,724,44,45],[808,971,43,51],[1728,724,32,45],[672,1101,102,102],[682,971,124,128],[1753,0,194,225],[611,1008,43,50],[1949,0,66,220],[1388,135,19,114],[730,137,201,215],[1934,227,97,169],[1624,960,269,48],[1624,1010,269,48],[1289,1011,269,48],[808,1058,269,48],[1017,1008,270,48],[1564,858,270,49],[1564,909,270,49],[1352,960,270,49],[399,1091,271,49],[338,1039,271,50],[126,1091,271,50],[1412,133,339,130],[0,244,339,139],[730,0,339,135],[1412,0,339,131],[197,0,339,137],[1071,0,339,133],[1252,265,339,125],[533,354,339,120],[0,498,339,107],[874,379,339,116],[0,385,339,111],[525,476,339,102],[1215,492,339,93],[1215,392,339,98],[525,580,339,88],[341,670,339,81],[0,693,339,80],[1080,587,339,82],[0,607,339,84],[0,775,339,77],[341,753,339,78],[1421,646,339,76],[1635,783,339,73],[672,1089,8,8],[0,854,339,70],[341,833,339,72],[338,978,244,59],[1294,724,339,74],[682,670,175,153],[1954,566,88,117],[1895,950,115,90],[866,497,212,141],[1976,685,64,147],[1077,671,215,119],[1212,800,215,93],[1252,135,134,128],[855,917,160,110],[0,926,190,111],[1762,646,190,135],[682,825,171,144],[933,137,124,161],[1936,566,12,46],[1040,792,170,139],[866,640,209,132],[1017,917,18,46],[859,774,179,141],[656,1044,10,39],[1403,251,6,12],[859,728,5,10],[672,995,6,11],[859,752,4,10],[656,1008,22,34],[859,740,5,10],[672,978,8,15],[2008,441,27,45],[668,1076,11,11],[1677,775,1,1],[1294,671,123,50],[842,1024,9,20],[1714,768,11,11],[1743,325,7,7],[1743,334,7,7],[1412,895,15,39],[1745,771,14,8],[645,1085,4,4],[1879,950,8,8],[651,1085,4,4],[1743,296,8,8],[1681,768,13,13],[1889,957,1,1],[584,978,86,28],[1892,957,1,1],[663,1085,3,3],[1836,858,123,90],[1895,1042,67,129],[1889,950,4,5],[1670,778,3,2],[623,1085,6,4],[525,412,6,8],[645,1060,4,5],[1564,800,65,56],[1739,643,1,1],[126,1039,64,48],[1742,643,1,1],[1657,778,5,3],[1677,771,2,2],[1664,778,4,3],[1743,343,7,7],[1743,352,7,7],[859,764,5,6],[525,442,5,6],[1352,895,58,60],[1866,950,11,6],[1936,633,13,10],[1743,361,7,7],[1727,771,16,7],[1234,792,9,5],[1635,778,9,3],[584,1033,15,4],[1696,768,16,8],[1708,626,10,12],[1743,265,8,14],[1730,626,7,17],[1743,370,7,7],[668,1044,11,15],[859,711,4,15],[1696,778,15,3],[1646,778,9,3],[525,431,4,9],[1739,626,5,15],[1057,774,14,13],[1836,950,14,6],[1743,281,8,13],[866,494,1,1],[869,494,1,1],[631,1085,5,4],[638,1085,5,4],[2037,441,7,7],[1743,306,8,8],[1852,950,12,7],[1695,626,11,14],[525,450,5,6],[525,422,6,7],[1743,316,8,7],[1961,858,64,66],[1708,640,10,4],[1635,771,19,5],[1212,792,9,6],[1720,626,8,15],[1233,379,15,7],[859,670,5,20],[1223,792,9,6],[525,383,6,15],[1656,771,19,5],[668,1061,12,13],[1040,774,15,13],[1215,379,16,7],[611,1085,10,4],[859,692,4,17],[1388,251,13,10],[525,400,6,10],[866,476,6,16],[1936,614,12,17],[525,472,4,2],[1675,778,3,2],[1720,643,1,1],[1723,643,1,1],[525,458,5,5],[525,465,5,5],[657,1085,4,4],[670,348,4,4],[601,1033,8,4],[1681,724,45,42],[670,297,42,49],[2008,398,30,41],[1695,567,46,57],[1556,392,188,173],[1746,471,188,173],[1936,398,70,166],[1593,265,148,106],[1080,497,133,86],[533,244,135,104],[1429,800,133,117],[192,926,144,138],[197,139,135,82],[1212,895,138,111],[0,1039,124,146],[341,907,339,69],[1421,587,272,51],[341,383,182,201],[538,0,190,242],[584,1008,21,23],[808,1024,32,28],[1753,227,179,242],[341,139,190,242],[1071,135,179,242],[0,0,195,242]]}
 ];
 
 
@@ -141,49 +141,49 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_270 = function() {
+(lib.CachedBmp_268 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_269 = function() {
+(lib.CachedBmp_267 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_268 = function() {
+(lib.CachedBmp_269 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_271 = function() {
+(lib.CachedBmp_270 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_267 = function() {
+(lib.CachedBmp_271 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_273 = function() {
+(lib.CachedBmp_272 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_272 = function() {
+(lib.CachedBmp_273 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
@@ -197,70 +197,63 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_262 = function() {
+(lib.CachedBmp_261 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_260 = function() {
+(lib.CachedBmp_262 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_261 = function() {
+(lib.CachedBmp_263 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_263 = function() {
+(lib.CachedBmp_260 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_256 = function() {
+(lib.CachedBmp_258 = function() {
 	this.initialize(ss["kharbouch_atlas_4"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_252 = function() {
-	this.initialize(ss["kharbouch_atlas_2"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_257 = function() {
-	this.initialize(ss["kharbouch_atlas_4"]);
-	this.gotoAndStop(1);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_254 = function() {
+(lib.CachedBmp_255 = function() {
 	this.initialize(ss["kharbouch_atlas_3"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_258 = function() {
+(lib.CachedBmp_256 = function() {
+	this.initialize(ss["kharbouch_atlas_4"]);
+	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_257 = function() {
 	this.initialize(ss["kharbouch_atlas_4"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_255 = function() {
+(lib.CachedBmp_254 = function() {
 	this.initialize(ss["kharbouch_atlas_3"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
@@ -274,44 +267,30 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_246 = function() {
+(lib.CachedBmp_252 = function() {
 	this.initialize(ss["kharbouch_atlas_2"]);
-	this.gotoAndStop(1);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_251 = function() {
 	this.initialize(ss["kharbouch_atlas_2"]);
-	this.gotoAndStop(2);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_250 = function() {
 	this.initialize(ss["kharbouch_atlas_2"]);
-	this.gotoAndStop(3);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_247 = function() {
+(lib.CachedBmp_246 = function() {
 	this.initialize(ss["kharbouch_atlas_2"]);
-	this.gotoAndStop(4);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_244 = function() {
-	this.initialize(ss["kharbouch_atlas_3"]);
 	this.gotoAndStop(3);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_245 = function() {
-	this.initialize(ss["kharbouch_atlas_3"]);
-	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -323,23 +302,44 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_243 = function() {
-	this.initialize(ss["kharbouch_atlas_3"]);
-	this.gotoAndStop(5);
+(lib.CachedBmp_247 = function() {
+	this.initialize(ss["kharbouch_atlas_2"]);
+	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_217 = function() {
-	this.initialize(ss["kharbouch_atlas_5"]);
-	this.gotoAndStop(13);
+(lib.CachedBmp_245 = function() {
+	this.initialize(ss["kharbouch_atlas_3"]);
+	this.gotoAndStop(3);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_244 = function() {
+	this.initialize(ss["kharbouch_atlas_3"]);
+	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_218 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
+	this.gotoAndStop(13);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_217 = function() {
+	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(14);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_243 = function() {
+	this.initialize(ss["kharbouch_atlas_3"]);
+	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -365,28 +365,28 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_212 = function() {
+(lib.CachedBmp_213 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_213 = function() {
+(lib.CachedBmp_212 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_210 = function() {
+(lib.CachedBmp_211 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_211 = function() {
+(lib.CachedBmp_210 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
@@ -400,6 +400,13 @@ lib.ssMetadata = [
 
 
 
+(lib.CachedBmp_242 = function() {
+	this.initialize(ss["kharbouch_atlas_4"]);
+	this.gotoAndStop(3);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.CachedBmp_197 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(23);
@@ -407,37 +414,37 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_196 = function() {
+(lib.CachedBmp_195 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(24);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_189 = function() {
+(lib.CachedBmp_196 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(25);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_194 = function() {
-	this.initialize(ss["kharbouch_atlas_4"]);
-	this.gotoAndStop(3);
+(lib.CachedBmp_189 = function() {
+	this.initialize(ss["kharbouch_atlas_5"]);
+	this.gotoAndStop(26);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_242 = function() {
+(lib.CachedBmp_194 = function() {
 	this.initialize(ss["kharbouch_atlas_4"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_195 = function() {
-	this.initialize(ss["kharbouch_atlas_5"]);
-	this.gotoAndStop(26);
+(lib.CachedBmp_191 = function() {
+	this.initialize(ss["kharbouch_atlas_4"]);
+	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -451,14 +458,14 @@ lib.ssMetadata = [
 
 (lib.CachedBmp_241 = function() {
 	this.initialize(ss["kharbouch_atlas_4"]);
-	this.gotoAndStop(5);
+	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_193 = function() {
 	this.initialize(ss["kharbouch_atlas_4"]);
-	this.gotoAndStop(6);
+	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -470,7 +477,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_199 = function() {
+(lib.CachedBmp_198 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(29);
 }).prototype = p = new cjs.Sprite();
@@ -479,42 +486,35 @@ lib.ssMetadata = [
 
 (lib.CachedBmp_182 = function() {
 	this.initialize(ss["kharbouch_atlas_4"]);
-	this.gotoAndStop(7);
+	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_200 = function() {
+(lib.CachedBmp_199 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(30);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_198 = function() {
+(lib.CachedBmp_202 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(31);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_201 = function() {
+(lib.CachedBmp_200 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(32);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_202 = function() {
+(lib.CachedBmp_201 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(33);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_191 = function() {
-	this.initialize(ss["kharbouch_atlas_4"]);
-	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -540,35 +540,35 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_207 = function() {
+(lib.CachedBmp_206 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(37);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_167 = function() {
+(lib.CachedBmp_168 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(38);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_168 = function() {
+(lib.CachedBmp_167 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(39);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_206 = function() {
+(lib.CachedBmp_169 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(40);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_169 = function() {
+(lib.CachedBmp_207 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(41);
 }).prototype = p = new cjs.Sprite();
@@ -596,7 +596,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_163 = function() {
+(lib.CachedBmp_162 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(45);
 }).prototype = p = new cjs.Sprite();
@@ -610,14 +610,14 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_161 = function() {
+(lib.CachedBmp_160 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(47);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_162 = function() {
+(lib.CachedBmp_161 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(48);
 }).prototype = p = new cjs.Sprite();
@@ -631,28 +631,28 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_160 = function() {
+(lib.CachedBmp_163 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(50);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_153 = function() {
+(lib.CachedBmp_154 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(51);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_151 = function() {
+(lib.CachedBmp_153 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(52);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_152 = function() {
+(lib.CachedBmp_151 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(53);
 }).prototype = p = new cjs.Sprite();
@@ -666,7 +666,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_154 = function() {
+(lib.CachedBmp_152 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(55);
 }).prototype = p = new cjs.Sprite();
@@ -687,14 +687,14 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_147 = function() {
+(lib.CachedBmp_146 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(58);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_146 = function() {
+(lib.CachedBmp_147 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(59);
 }).prototype = p = new cjs.Sprite();
@@ -729,7 +729,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_141 = function() {
+(lib.CachedBmp_138 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(64);
 }).prototype = p = new cjs.Sprite();
@@ -743,35 +743,35 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_138 = function() {
+(lib.CachedBmp_141 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(66);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_139 = function() {
+(lib.CachedBmp_137 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(67);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_137 = function() {
+(lib.CachedBmp_139 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(68);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_135 = function() {
+(lib.CachedBmp_136 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(69);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_136 = function() {
+(lib.CachedBmp_133 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(70);
 }).prototype = p = new cjs.Sprite();
@@ -785,30 +785,9 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_133 = function() {
-	this.initialize(ss["kharbouch_atlas_5"]);
-	this.gotoAndStop(72);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_131 = function() {
-	this.initialize(ss["kharbouch_atlas_5"]);
-	this.gotoAndStop(73);
-}).prototype = p = new cjs.Sprite();
-
-
-
 (lib.CachedBmp_132 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
-	this.gotoAndStop(74);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_129 = function() {
-	this.initialize(ss["kharbouch_atlas_5"]);
-	this.gotoAndStop(75);
+	this.gotoAndStop(72);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -820,84 +799,105 @@ lib.ssMetadata = [
 
 
 
+(lib.CachedBmp_135 = function() {
+	this.initialize(ss["kharbouch_atlas_5"]);
+	this.gotoAndStop(73);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_129 = function() {
+	this.initialize(ss["kharbouch_atlas_5"]);
+	this.gotoAndStop(74);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.CachedBmp_130 = function() {
+	this.initialize(ss["kharbouch_atlas_5"]);
+	this.gotoAndStop(75);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_131 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(76);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_127 = function() {
+(lib.CachedBmp_128 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(77);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_125 = function() {
+(lib.CachedBmp_126 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(78);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_126 = function() {
+(lib.CachedBmp_123 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(79);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_123 = function() {
+(lib.CachedBmp_124 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(80);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_128 = function() {
+(lib.CachedBmp_127 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(81);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_124 = function() {
+(lib.CachedBmp_125 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(82);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_121 = function() {
+(lib.CachedBmp_122 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(83);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_120 = function() {
+(lib.CachedBmp_121 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(84);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_122 = function() {
+(lib.CachedBmp_119 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(85);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_118 = function() {
+(lib.CachedBmp_120 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(86);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_119 = function() {
+(lib.CachedBmp_118 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(87);
 }).prototype = p = new cjs.Sprite();
@@ -911,84 +911,84 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_114 = function() {
+(lib.CachedBmp_115 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(89);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_116 = function() {
+(lib.CachedBmp_114 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(90);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_115 = function() {
+(lib.CachedBmp_116 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(91);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_111 = function() {
+(lib.CachedBmp_112 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(92);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_112 = function() {
+(lib.CachedBmp_109 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(93);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_110 = function() {
+(lib.CachedBmp_111 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(94);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_109 = function() {
+(lib.CachedBmp_105 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(95);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_108 = function() {
+(lib.CachedBmp_110 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(96);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_105 = function() {
+(lib.CachedBmp_108 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(97);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_104 = function() {
+(lib.CachedBmp_107 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(98);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_107 = function() {
+(lib.CachedBmp_104 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(99);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_101 = function() {
+(lib.CachedBmp_103 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(100);
 }).prototype = p = new cjs.Sprite();
@@ -1002,98 +1002,98 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_103 = function() {
+(lib.CachedBmp_101 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(102);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_102 = function() {
+(lib.CachedBmp_95 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(103);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_96 = function() {
+(lib.CachedBmp_93 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(104);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_95 = function() {
+(lib.CachedBmp_96 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(105);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_91 = function() {
+(lib.CachedBmp_94 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(106);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_94 = function() {
+(lib.CachedBmp_92 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(107);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_92 = function() {
+(lib.CachedBmp_102 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(108);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_88 = function() {
+(lib.CachedBmp_91 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(109);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_89 = function() {
+(lib.CachedBmp_90 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(110);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_87 = function() {
+(lib.CachedBmp_89 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(111);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_93 = function() {
+(lib.CachedBmp_86 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(112);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_86 = function() {
+(lib.CachedBmp_87 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(113);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_90 = function() {
+(lib.CachedBmp_85 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(114);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_83 = function() {
+(lib.CachedBmp_88 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(115);
 }).prototype = p = new cjs.Sprite();
@@ -1107,7 +1107,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_85 = function() {
+(lib.CachedBmp_81 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(117);
 }).prototype = p = new cjs.Sprite();
@@ -1121,56 +1121,56 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_80 = function() {
+(lib.CachedBmp_83 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(119);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_81 = function() {
+(lib.CachedBmp_80 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(120);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_78 = function() {
+(lib.CachedBmp_79 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(121);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_76 = function() {
+(lib.CachedBmp_78 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(122);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_79 = function() {
+(lib.CachedBmp_77 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(123);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_74 = function() {
+(lib.CachedBmp_75 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(124);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_75 = function() {
+(lib.CachedBmp_74 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(125);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_77 = function() {
+(lib.CachedBmp_76 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(126);
 }).prototype = p = new cjs.Sprite();
@@ -1219,14 +1219,14 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_69 = function() {
+(lib.CachedBmp_66 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(133);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_66 = function() {
+(lib.CachedBmp_69 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(134);
 }).prototype = p = new cjs.Sprite();
@@ -1240,28 +1240,28 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_61 = function() {
+(lib.CachedBmp_63 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(136);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_62 = function() {
+(lib.CachedBmp_64 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(137);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_59 = function() {
+(lib.CachedBmp_61 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(138);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_64 = function() {
+(lib.CachedBmp_62 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(139);
 }).prototype = p = new cjs.Sprite();
@@ -1275,7 +1275,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_63 = function() {
+(lib.CachedBmp_59 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(141);
 }).prototype = p = new cjs.Sprite();
@@ -1289,7 +1289,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_56 = function() {
+(lib.CachedBmp_54 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(143);
 }).prototype = p = new cjs.Sprite();
@@ -1303,14 +1303,14 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_53 = function() {
+(lib.CachedBmp_56 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(145);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_54 = function() {
+(lib.CachedBmp_53 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(146);
 }).prototype = p = new cjs.Sprite();
@@ -1324,7 +1324,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_51 = function() {
+(lib.CachedBmp_50 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(148);
 }).prototype = p = new cjs.Sprite();
@@ -1338,14 +1338,14 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_48 = function() {
+(lib.CachedBmp_51 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(150);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_46 = function() {
+(lib.CachedBmp_47 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(151);
 }).prototype = p = new cjs.Sprite();
@@ -1359,70 +1359,70 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_47 = function() {
+(lib.CachedBmp_44 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(153);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_50 = function() {
+(lib.CachedBmp_46 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(154);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_45 = function() {
+(lib.CachedBmp_43 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(155);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_43 = function() {
+(lib.CachedBmp_48 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(156);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_44 = function() {
+(lib.CachedBmp_45 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(157);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_40 = function() {
+(lib.CachedBmp_42 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(158);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_41 = function() {
+(lib.CachedBmp_40 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(159);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_42 = function() {
+(lib.CachedBmp_41 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(160);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_39 = function() {
+(lib.CachedBmp_37 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(161);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_35 = function() {
+(lib.CachedBmp_39 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(162);
 }).prototype = p = new cjs.Sprite();
@@ -1436,42 +1436,42 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_36 = function() {
+(lib.CachedBmp_35 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(164);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_37 = function() {
+(lib.CachedBmp_36 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(165);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_34 = function() {
+(lib.CachedBmp_32 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(166);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_33 = function() {
+(lib.CachedBmp_31 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(167);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_31 = function() {
+(lib.CachedBmp_33 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(168);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_32 = function() {
+(lib.CachedBmp_34 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(169);
 }).prototype = p = new cjs.Sprite();
@@ -1485,28 +1485,28 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_28 = function() {
+(lib.CachedBmp_30 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(171);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_30 = function() {
+(lib.CachedBmp_27 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(172);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_27 = function() {
+(lib.CachedBmp_26 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(173);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_26 = function() {
+(lib.CachedBmp_28 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(174);
 }).prototype = p = new cjs.Sprite();
@@ -1534,13 +1534,6 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_24 = function() {
-	this.initialize(ss["kharbouch_atlas_4"]);
-	this.gotoAndStop(10);
-}).prototype = p = new cjs.Sprite();
-
-
-
 (lib.CachedBmp_19 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(178);
@@ -1548,9 +1541,9 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_18 = function() {
-	this.initialize(ss["kharbouch_atlas_5"]);
-	this.gotoAndStop(179);
+(lib.CachedBmp_24 = function() {
+	this.initialize(ss["kharbouch_atlas_4"]);
+	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1562,14 +1555,21 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_15 = function() {
+(lib.CachedBmp_18 = function() {
+	this.initialize(ss["kharbouch_atlas_5"]);
+	this.gotoAndStop(179);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_17 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(180);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_17 = function() {
+(lib.CachedBmp_15 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(181);
 }).prototype = p = new cjs.Sprite();
@@ -1604,21 +1604,21 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_10 = function() {
+(lib.CachedBmp_12 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(186);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_9 = function() {
+(lib.CachedBmp_10 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(187);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_12 = function() {
+(lib.CachedBmp_9 = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(188);
 }).prototype = p = new cjs.Sprite();
@@ -1687,9 +1687,16 @@ p.nominalBounds = new cjs.Rectangle(0,0,2491,1808);
 
 
 
-(lib.Asset112x = function() {
+(lib.Asset162x = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(194);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Asset2 = function() {
+	this.initialize(ss["kharbouch_atlas_4"]);
+	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1701,79 +1708,79 @@ p.nominalBounds = new cjs.Rectangle(0,0,2491,1808);
 
 
 
-(lib.Asset192x = function() {
-	this.initialize(ss["kharbouch_atlas_4"]);
-	this.gotoAndStop(14);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Asset202x = function() {
+(lib.Asset112x = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(196);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Asset42x = function() {
+(lib.Asset202x = function() {
 	this.initialize(ss["kharbouch_atlas_5"]);
 	this.gotoAndStop(197);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Asset82x = function() {
+(lib.Asset22x = function() {
 	this.initialize(ss["kharbouch_atlas_4"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.نحل3 = function() {
+(lib.Asset192x = function() {
 	this.initialize(ss["kharbouch_atlas_4"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Asset22x = function() {
+(lib.Asset82x = function() {
 	this.initialize(ss["kharbouch_atlas_4"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Asset162x = function() {
-	this.initialize(ss["kharbouch_atlas_5"]);
-	this.gotoAndStop(198);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.foka3a2x = function() {
+(lib.نحل3 = function() {
 	this.initialize(ss["kharbouch_atlas_4"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.hnbg22x = function() {
+(lib.foka3a2x = function() {
 	this.initialize(ss["kharbouch_atlas_4"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.bird = function() {
+(lib.hnbg22x = function() {
 	this.initialize(ss["kharbouch_atlas_4"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Asset2 = function() {
+(lib.rfgv42x = function() {
 	this.initialize(ss["kharbouch_atlas_4"]);
 	this.gotoAndStop(21);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.bird = function() {
+	this.initialize(ss["kharbouch_atlas_4"]);
+	this.gotoAndStop(22);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Asset42x = function() {
+	this.initialize(ss["kharbouch_atlas_5"]);
+	this.gotoAndStop(198);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1785,14 +1792,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,2491,1808);
 
 
 
-(lib.rfgv42x = function() {
-	this.initialize(ss["kharbouch_atlas_4"]);
-	this.gotoAndStop(22);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_7 = function() {
+(lib.CachedBmp_5 = function() {
 	this.initialize(ss["kharbouch_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
@@ -1813,14 +1813,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,2491,1808);
 
 
 
-(lib.CachedBmp_4 = function() {
+(lib.CachedBmp_7 = function() {
 	this.initialize(ss["kharbouch_atlas_1"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_5 = function() {
+(lib.CachedBmp_4 = function() {
 	this.initialize(ss["kharbouch_atlas_1"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
@@ -4298,7 +4298,7 @@ p.nominalBounds = new cjs.Rectangle(288,20,229,411.7);
 	// kalim
 	this.kalima = new lib.klma1();
 	this.kalima.name = "kalima";
-	this.kalima.setTransform(164.3,192.3,1.2233,1,0,0,0,66.8,21.4);
+	this.kalima.setTransform(164.3,187.3,1.2233,1,0,0,0,66.8,21.4);
 
 	this.timeline.addTween(cjs.Tween.get(this.kalima).wait(1));
 
@@ -4361,7 +4361,7 @@ p.nominalBounds = new cjs.Rectangle(288,20,229,411.7);
 	// kalim
 	this.kalima = new lib.klma2();
 	this.kalima.name = "kalima";
-	this.kalima.setTransform(194.25,176.65,1,1,0,0,0,64.7,31.2);
+	this.kalima.setTransform(194.25,165.65,1,1,0,0,0,64.7,31.2);
 
 	this.timeline.addTween(cjs.Tween.get(this.kalima).wait(1));
 
@@ -4914,21 +4914,11 @@ p.nominalBounds = new cjs.Rectangle(-65.7,-43.9,215.5,200.20000000000002);
 		
 			function removeHorof() {
 		
-		for (var u = 0; u < draggedArray.length; u++) {
+				for (var u = 0; u < draggedArray.length; u++) {
 		
 					draggedArray[u].visible = false
-		
-		
 				}
-				return
-				
-				for (var u = 0; u < klkArray.length; u++) {
-		
-					klkArray[u].visible = false
-		
-		
-				}
-				
+			
 			}
 		
 		
@@ -4997,15 +4987,15 @@ p.nominalBounds = new cjs.Rectangle(-65.7,-43.9,215.5,200.20000000000002);
 						x: cont.mc.monster.x - cont.mc.kalima.getTransformedBounds().width - 60
 		
 					}, 2000, createjs.Ease.getPowInOut(2))
-					
-					.call(function () {
-						createjs.Sound.stop()
-					})
-		            .wait(1000)
+		
+				.call(function () {
+					createjs.Sound.stop()
+				})
+					.wait(1000)
 					.to({
 						x: cont.mc.monster.x - cont.mc.kalima.getTransformedBounds().width - 80
 		
-					},10)
+					}, 10)
 					.call(function () {
 		
 						cont.mc.monster.gotoAndStop(4)
@@ -5246,7 +5236,7 @@ p.nominalBounds = new cjs.Rectangle(-65.7,-43.9,215.5,200.20000000000002);
 		
 						if (change_boo && !gameIsOver) {
 		
-							
+		
 							setTimeout(function () {
 		
 		
@@ -5278,460 +5268,460 @@ p.nominalBounds = new cjs.Rectangle(-65.7,-43.9,215.5,200.20000000000002);
 		
 					// DONT move this var from klkManager		
 				var delayBeforNextSess = 0;
-					
-					function adaptViewKlk(clicked, iscorr) {
+		
+				function adaptViewKlk(clicked, iscorr) {
 		
 		
-						delayBeforNextSess = 0
+					delayBeforNextSess = 0
 		
-						if (iscorr) {
+					if (iscorr) {
 		
-							delayBeforNextSess = titleDuration['magic'] + titleDuration['ishab'] + 1000 //+ monsterCorrAnime
+						delayBeforNextSess = titleDuration['magic'] + titleDuration['ishab'] + 1000 //+ monsterCorrAnime
 		
 		
-						} else {
+					} else {
 		
-							if (!change_boo) Sound_startResultAnimeTime = 'hawil'
-							else Sound_startResultAnimeTime = 'session'
+						if (!change_boo) Sound_startResultAnimeTime = 'hawil'
+						else Sound_startResultAnimeTime = 'session'
 		
-								delayBeforNextSess = titleDuration['fault'] + titleDuration[Sound_startResultAnimeTime] //+ monsterWrongAnime
-						}
+							delayBeforNextSess = titleDuration['fault'] + titleDuration[Sound_startResultAnimeTime] //+ monsterWrongAnime
+					}
+		
+		
+					setTimeout(function () {
+		
+						startResultAnimeKlk(iscorr)
+		
+					}, 0)
+		
+					return delayBeforNextSess
+				}
+		
+		
+				function startResultAnimeKlk(boo) {
+		
+		
+					if (boo) {
+		
+		
+						mcClicked.bkg.gotoAndStop(2)
+						startSound("win0")
+						dndMc.monster.gotoAndStop(6)
+						dndMc.monster.mon7.gotoAndPlay(1)
 		
 		
 						setTimeout(function () {
 		
-							startResultAnimeKlk(iscorr)
 		
-						}, 0)
+							mcClicked.visible = false
+							startSound("ishab")
 		
-						return delayBeforNextSess
-					}
+						}, titleDuration['win0'] + 1000) //+  monsterCorrAnime 
+		
+						setTimeout(function () {
+		
+							dndMc.monster.gotoAndStop(5)
+		
+						}, titleDuration['win0'] + 3500) // رائع ..والان..
 		
 		
-					function startResultAnimeKlk(boo) {
+					} else {
+		
+						mcClicked.bkg.gotoAndStop(3)
+						startSound("fault")
+		
+						dndMc.monster.gotoAndStop(8)
+						dndMc.monster.mon9.gotoAndPlay(1)
+		
+						showResu(false);
+		
+						if (gameIsOver) {
+		
+							gameOver()
+		
+						}
+		
+						if (change_boo && !sessionAfterRightResp && !gameIsOver) {
 		
 		
-						if (boo) {
+							showNumOfemoError()
+		
+						}
 		
 		
-							mcClicked.bkg.gotoAndStop(2)
-							startSound("win0")
-							dndMc.monster.gotoAndStop(6)
-							dndMc.monster.mon7.gotoAndPlay(1)
+						if (!change_boo && !gameIsOver) {
 		
-		                     
 							setTimeout(function () {
 		
+								startSound('hawil')
 		
-								mcClicked.visible = false
-								startSound("ishab")
+								mcClicked.bkg.gotoAndStop(0)
 		
-							}, titleDuration['win0'] + 1000) //+  monsterCorrAnime 
+							}, titleDuration['fault']);
 		
 							setTimeout(function () {
 		
 								dndMc.monster.gotoAndStop(5)
+							}, titleDuration['fault'] + titleDuration['hawil'])
 		
-		                    },  titleDuration['win0'] + 3500)// رائع ..والان..
-					
-		
-						} else {
-		
-							mcClicked.bkg.gotoAndStop(3)
-							startSound("fault")
-		
-							dndMc.monster.gotoAndStop(8)
-							dndMc.monster.mon9.gotoAndPlay(1)
-		
-							showResu(false);
-		
-							if (gameIsOver) {
-		
-								gameOver()
-		
-							}
-		
-							if (change_boo && !sessionAfterRightResp && !gameIsOver) {
-		
-		
-								showNumOfemoError()
-		
-							}
-		
-		
-							if (!change_boo && !gameIsOver) {
-		
-								setTimeout(function () {
-		
-									startSound('hawil')
-		
-									mcClicked.bkg.gotoAndStop(0)
-		
-								}, titleDuration['fault']);
-		
-								setTimeout(function () {
-		
-									dndMc.monster.gotoAndStop(5)
-								}, titleDuration['fault'] + titleDuration['hawil'])
-		
-		
-							}
 		
 						}
+		
+					}
+				}
+		
+				function adaptView(ishit, iscorr) {
+		
+		
+					delayBeforNextSess = 0
+		
+					if (iscorr) {
+		
+						delayBeforNextSess = titleDuration['magic'] + titleDuration['title' + currentpage] + 1000 //+ monsterCorrAnime
+		
+		
+					} else {
+		
+						if (!change_boo) Sound_startResultAnimeTime = 'return'
+						else Sound_startResultAnimeTime = 'session'
+		
+							delayBeforNextSess = titleDuration[Sound_startResultAnimeTime] + 1000 //+ monsterWrongAnime
 					}
 		
-					function adaptView(ishit, iscorr) {
+		
+					setTimeout(function () {
+		
+						startResultAnime(ishit, iscorr)
+		
+					}, 1000)
+		
+					return delayBeforNextSess
+				}
 		
 		
-						delayBeforNextSess = 0
-		
-						if (iscorr) {
-		
-							delayBeforNextSess = titleDuration['magic'] + titleDuration['title' + currentpage] + 1000 //+ monsterCorrAnime
+				function startResultAnime(isHit, boo) {
 		
 		
-						} else {
-		
-							if (!change_boo) Sound_startResultAnimeTime = 'return'
-							else Sound_startResultAnimeTime = 'session'
-		
-								delayBeforNextSess = titleDuration[Sound_startResultAnimeTime] + 1000 //+ monsterWrongAnime
-						}
+					if (boo) {
 		
 		
+						dndMc.nojom.visible = true
+						dndMc.nojom.gotoAndPlay(1)
+						removeHorof()
+						startSound('magic')
 						setTimeout(function () {
 		
-							startResultAnime(ishit, iscorr)
 		
-						}, 1000)
-		
-						return delayBeforNextSess
-					}
-		
-		
-					function startResultAnime(isHit, boo) {
-		
-		
-						if (boo) {
-		
-		
-							dndMc.nojom.visible = true
-							dndMc.nojom.gotoAndPlay(1)
-							removeHorof()
-							startSound('magic')
-							setTimeout(function () {
-		                          
-								
-								showResu(true)
-								mcClicked.gotoAndStop(1)
-								mcClicked.visible = true
-								startSound('title' + currentpage)
-							}, 1000);
-		
-		
-							setTimeout(function () {
-		                         startSound("win0")
-								dndMc.monster.gotoAndStop(7)
-								dndMc.monster.mon8.gotoAndPlay(1)
-		
-		
-							}, titleDuration['title' + currentpage] + 1000)
-		
-						} else if (isHit) {
-		
-							startSound("fault")
-		
-							dndMc.monster.gotoAndStop(8)
-							dndMc.monster.mon9.gotoAndPlay(1)
-		
-							showResu(false)
-		
-							if (gameIsOver) {
-		
-								gameOver()
-		
-							}
-		
-							if (change_boo && !sessionAfterRightResp && !gameIsOver) {
-		
-		
-								showNumOfemoError()
-		
-							}
-		
-		
-							if (!change_boo && !gameIsOver) {
-		
-								setTimeout(function () {
-		
-									startSound('hawil')
-		
-								}, titleDuration['fault']);
-		
-								setTimeout(function () {
-		
-		
-									dndMc.monster.gotoAndStop(5)
-		
-		
-								}, titleDuration['hawil'] + titleDuration['fault']);
-		
-		
-							}
-		
-		
-		
-		
-						}
-		
-					}
-		
-		
-					function onpressup(evt) {
-		
-						var isHit = false;
-		
-						isHit = checkHit(evt.currentTarget);
-						if (isHit) {
-							isCorr = correct(evt.currentTarget);
-						}
-		
-						if (isHit && isCorr) {
-		
-							evt.currentTarget.x = currentHit.x;
-							evt.currentTarget.y = currentHit.y;
-		
-							evt.currentTarget.mouseEnabled = false
-		
-							evt.currentTarget.bkg.gotoAndStop(1)
-		
-							startSound('dropsound')
-		
-							used_target.push(currentHitString)
-		
-							myListofArraysCorr[currentpage].push(currentHitString)
-		
-						} else {
-		
-							returntoFirstplace(evt.currentTarget);
-		
-							if (isHit) {
-		
-								startSound('return')
-		
-		
-								myListofArraysFaul[currentpage].push(currentHitString)
-		
-							}
-						}
-		
-						checkGameOver()
-		
-		
-						var _delayBeforNextSess = adaptView(isHit, isCorr)
-		
-		
-						if (gameIsOver) return
-		
-		
-						change_boo = conditionChangeSess(isCorr)
-		
-		
-						if (change_boo && !gameIsOver) {
-		
-		                     setTimeout(startNextSession, _delayBeforNextSess);
-							
-						}
-					}
-		
-		
-					function conditionChangeSessKlk(iscoor) {
-		                //If correct ,click buttons aren't allowed to change session
-		                 sessionAfterRightResp = false
-						
-						if ((myListofArraysFaul[currentpage].length + 1) % (autorizedSingleQ + 1) == 0) {
-		
-							allQ_pages[currentpage].push(0)
-							return true;
-		
-						}
-		
-						return false
-					}
-		
-		
-					function conditionChangeSess() {
-		
-						if (used_target.length == 1) {
-		
-							//showResu(true); //show Resu score befor filling the allQ_pages array
-							allQ_pages[currentpage].push(1)
-		
-							sessionAfterRightResp = true
-							return true;
-						}
-		
-						if ((myListofArraysFaul[currentpage].length + 1) % (autorizedSingleQ + (autorizedSingleQ * allQ_pages[currentpage].length) + 1) == 0) {
-		
-							//showResu(false)
-							allQ_pages[currentpage].push(0)
-							sessionAfterRightResp = false
-							return true;
-		
-						}
-		
-						sessionAfterRightResp = false
-						return false
-					}
-		
-		
-		
-					function preStartSession() {
-		
-						setTimeout(function () {
-		
-							startSound('session')
-		
+							showResu(true)
+							mcClicked.gotoAndStop(1)
+							mcClicked.visible = true
+							startSound('title' + currentpage)
 						}, 1000);
 		
 		
 						setTimeout(function () {
+							startSound("win0")
+							dndMc.monster.gotoAndStop(7)
+							dndMc.monster.mon8.gotoAndPlay(1)
 		
-							startSession()
-						}, 2500);
+		
+						}, titleDuration['title' + currentpage] + 1000)
+		
+					} else if (isHit) {
+		
+						startSound("fault")
+		
+						dndMc.monster.gotoAndStop(8)
+						dndMc.monster.mon9.gotoAndPlay(1)
+		
+						showResu(false)
+		
+						if (gameIsOver) {
+		
+							gameOver()
+		
+						}
+		
+						if (change_boo && !sessionAfterRightResp && !gameIsOver) {
+		
+		
+							showNumOfemoError()
+		
+						}
+		
+		
+						if (!change_boo && !gameIsOver) {
+		
+							setTimeout(function () {
+		
+								startSound('hawil')
+		
+							}, titleDuration['fault']);
+		
+							setTimeout(function () {
+		
+		
+								dndMc.monster.gotoAndStop(5)
+		
+		
+							}, titleDuration['hawil'] + titleDuration['fault']);
+		
+		
+						}
+		
+		
 		
 		
 					}
 		
-					function startNextSession() {
+				}
 		
-						send_statis()
-						
-						if ((currentpage + 1) < numOfQ && allQ_pages[currentpage + 1].length == 0) {
-							currentpage = currentpage + 1;
+		
+				function onpressup(evt) {
+		
+					var isHit = false;
+		
+					isHit = checkHit(evt.currentTarget);
+					if (isHit) {
+						isCorr = correct(evt.currentTarget);
+					}
+		
+					if (isHit && isCorr) {
+		
+						evt.currentTarget.x = currentHit.x;
+						evt.currentTarget.y = currentHit.y;
+		
+						evt.currentTarget.mouseEnabled = false
+		
+						evt.currentTarget.bkg.gotoAndStop(1)
+		
+						startSound('dropsound')
+		
+						used_target.push(currentHitString)
+		
+						myListofArraysCorr[currentpage].push(currentHitString)
+		
+					} else {
+		
+						returntoFirstplace(evt.currentTarget);
+		
+						if (isHit) {
+		
+							startSound('return')
+		
+		
+							myListofArraysFaul[currentpage].push(currentHitString)
+		
+						}
+					}
+		
+					checkGameOver()
+		
+		
+					var _delayBeforNextSess = adaptView(isHit, isCorr)
+		
+		
+					if (gameIsOver) return
+		
+		
+					change_boo = conditionChangeSess(isCorr)
+		
+		
+					if (change_boo && !gameIsOver) {
+		
+						setTimeout(startNextSession, _delayBeforNextSess);
+		
+					}
+				}
+		
+		
+				function conditionChangeSessKlk(iscoor) {
+					//If correct ,click buttons aren't allowed to change session
+					sessionAfterRightResp = false
+		
+					if ((myListofArraysFaul[currentpage].length + 1) % (autorizedSingleQ + 1) == 0) {
+		
+						allQ_pages[currentpage].push(0)
+						return true;
+		
+					}
+		
+					return false
+				}
+		
+		
+				function conditionChangeSess() {
+		
+					if (used_target.length == 1) {
+		
+						//showResu(true); //show Resu score befor filling the allQ_pages array
+						allQ_pages[currentpage].push(1)
+		
+						sessionAfterRightResp = true
+						return true;
+					}
+		
+					if ((myListofArraysFaul[currentpage].length + 1) % (autorizedSingleQ + (autorizedSingleQ * allQ_pages[currentpage].length) + 1) == 0) {
+		
+						//showResu(false)
+						allQ_pages[currentpage].push(0)
+						sessionAfterRightResp = false
+						return true;
+		
+					}
+		
+					sessionAfterRightResp = false
+					return false
+				}
+		
+		
+		
+				function preStartSession() {
+		
+					setTimeout(function () {
+		
+						startSound('session')
+		
+					}, 1000);
+		
+		
+					setTimeout(function () {
+		
+						startSession()
+					}, 2500);
+		
+		
+				}
+		
+				function startNextSession() {
+		
+					send_statis()
+		
+					if ((currentpage + 1) < numOfQ && allQ_pages[currentpage + 1].length == 0) {
+						currentpage = currentpage + 1;
+		
+						preStartSession()
+		
+		
+					} else {
+		
+						checkPrecedentQ()
+		
+		
+					}
+		
+		
+				}
+		
+				function checkPrecedentQ() {
+		
+					from_checkPrecedentQ = false;
+					console.log('from checkPrecedentQ : allQ_pages', allQ_pages)
+					for (var i = 0; i < allQ_pages.length; i++) {
+		
+						if (allQ_pages[i][allQ_pages[i].length - 1] == 0) {
+		
+							currentpage = i
+		
+							from_checkPrecedentQ = true;
+		
 		
 							preStartSession()
 		
 		
-						} else {
-		
-							checkPrecedentQ()
-		
-		
+							break
 						}
+					}
 		
+					if (!from_checkPrecedentQ) {
+		
+						showLossWinMc(true)
+		
+						send_statis();
+					}
+		
+				}
+		
+		
+		
+		
+				function correct(obj) {
+		
+		
+					if ('t' == obj.name.slice(4) && currentHitString.slice(4)) {
+		
+						return true
 		
 					}
 		
-					function checkPrecedentQ() {
+					return false
 		
-						from_checkPrecedentQ = false;
-						console.log('from checkPrecedentQ : allQ_pages', allQ_pages)
-						for (var i = 0; i < allQ_pages.length; i++) {
-		
-							if (allQ_pages[i][allQ_pages[i].length - 1] == 0) {
-		
-								currentpage = i
-		
-								from_checkPrecedentQ = true;
+				}
 		
 		
-								preStartSession()
+				function checkHit(obj) {
+		
+					var lastDist = 100;
+		
+					currentHitString = '';
+		
+					currentHit = null;
+		
+					var rect = {
+		
+						x: obj.x,
+						y: obj.y,
+						width: obj.getTransformedBounds().width,
+						height: obj.getTransformedBounds().height
+					}
 		
 		
-								break
+					for (var u = 0; u < klkArray.length; u++) {
+		
+		
+		
+						var rect2 = klkArray[u];
+						if (rect2.name.slice(4) != 't') continue
+		
+						//	if (Math.abs(rect.x - rect2.x) < (rect.width / 2 + rect2.getTransformedBounds().width / 2) && Math.abs(rect.y - rect2.y) < (rect.height / 2 + rect2.getTransformedBounds().height / 2)) {
+						if (Math.abs(rect.x - rect2.x) < (rect.width / 2 + rect2.getTransformedBounds().width / 2) && Math.abs(rect.y - rect2.y) < (rect.height / 2 + rect2.getTransformedBounds().height / 2)) {
+		
+							if (used_target.includes(rect2.name)) {
+		
+								continue; //return false;
 							}
-						}
 		
-						if (!from_checkPrecedentQ) {
-		
-							showLossWinMc(true)
-		
-							send_statis();
-						}
-		
-					}
+							if (Math.abs(rect.x - rect2.x) < lastDist) {
 		
 		
+								currentHitString = rect2.name;
 		
+								currentHit = rect2;
 		
-					function correct(obj) {
-		
-		
-						if ('t' == obj.name.slice(4) && currentHitString.slice(4)) {
-		
-							return true
-		
-						}
-		
-						return false
-		
-					}
-		
-		
-					function checkHit(obj) {
-		
-						var lastDist = 100;
-		
-						currentHitString = '';
-		
-						currentHit = null;
-		
-						var rect = {
-		
-							x: obj.x,
-							y: obj.y,
-							width: obj.getTransformedBounds().width,
-							height: obj.getTransformedBounds().height
-						}
-		
-		
-						for (var u = 0; u < klkArray.length; u++) {
-		
-		
-		
-							var rect2 = klkArray[u];
-							if (rect2.name.slice(4) != 't') continue
-		
-							//	if (Math.abs(rect.x - rect2.x) < (rect.width / 2 + rect2.getTransformedBounds().width / 2) && Math.abs(rect.y - rect2.y) < (rect.height / 2 + rect2.getTransformedBounds().height / 2)) {
-							if (Math.abs(rect.x - rect2.x) < (rect.width / 2 + rect2.getTransformedBounds().width / 2) && Math.abs(rect.y - rect2.y) < (rect.height / 2 + rect2.getTransformedBounds().height / 2)) {
-		
-								if (used_target.includes(rect2.name)) {
-		
-									continue; //return false;
-								}
-		
-								if (Math.abs(rect.x - rect2.x) < lastDist) {
-		
-		
-									currentHitString = rect2.name;
-		
-									currentHit = rect2;
-		
-									lastDist = Math.abs(rect.x - rect2.x)
-		
-								}
+								lastDist = Math.abs(rect.x - rect2.x)
 		
 							}
 		
 						}
-						if (currentHit != null) {
-							return true;
-						}
-		
-						return false;
-					}
-		
-		
-					function returntoFirstplace(mc) {
-		
-		
-		
-						mc.x = mc.startx;
-						mc.y = mc.starty;
-		
 		
 					}
+					if (currentHit != null) {
+						return true;
+					}
+		
+					return false;
+				}
+		
+		
+				function returntoFirstplace(mc) {
+		
+		
+		
+					mc.x = mc.startx;
+					mc.y = mc.starty;
+		
+		
+				}
 		
 				dndMc.addEventListener("removed", onDNDRemove);
 				function onDNDRemove(ev) {
@@ -5802,7 +5792,7 @@ p.nominalBounds = new cjs.Rectangle(-65.7,-43.9,215.5,200.20000000000002);
 			}, {
 				id: "fault",
 				src: "fault.mp3"
-			},  {
+			}, {
 				id: "hawil",
 				src: "hawil.mp3"
 			}, {
@@ -5860,7 +5850,7 @@ p.nominalBounds = new cjs.Rectangle(-65.7,-43.9,215.5,200.20000000000002);
 		
 		
 			createjs.Sound.on("fileload", handleLoad);
-			
+		
 			soundIsReady = createjs.Sound.registerSound("mysound/" + sout + ".mp3", sout);
 		
 		}
@@ -5966,13 +5956,13 @@ lib.properties = {
 	color: "#F2EEED",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/_46092Converted.jpg?1667500617037", id:"_46092Converted"},
-		{src:"images/CachedBmp_156.png?1667500617037", id:"CachedBmp_156"},
-		{src:"images/kharbouch_atlas_1.png?1667500616877", id:"kharbouch_atlas_1"},
-		{src:"images/kharbouch_atlas_2.png?1667500616877", id:"kharbouch_atlas_2"},
-		{src:"images/kharbouch_atlas_3.png?1667500616877", id:"kharbouch_atlas_3"},
-		{src:"images/kharbouch_atlas_4.png?1667500616877", id:"kharbouch_atlas_4"},
-		{src:"images/kharbouch_atlas_5.png?1667500616880", id:"kharbouch_atlas_5"}
+		{src:"images/_46092Converted.jpg?1667501581912", id:"_46092Converted"},
+		{src:"images/CachedBmp_156.png?1667501581912", id:"CachedBmp_156"},
+		{src:"images/kharbouch_atlas_1.png?1667501581717", id:"kharbouch_atlas_1"},
+		{src:"images/kharbouch_atlas_2.png?1667501581726", id:"kharbouch_atlas_2"},
+		{src:"images/kharbouch_atlas_3.png?1667501581727", id:"kharbouch_atlas_3"},
+		{src:"images/kharbouch_atlas_4.png?1667501581728", id:"kharbouch_atlas_4"},
+		{src:"images/kharbouch_atlas_5.png?1667501581731", id:"kharbouch_atlas_5"}
 	],
 	preloads: []
 };
