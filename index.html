@@ -11,22 +11,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="authoring-tool" content="Adobe_Animate_CC">
-<title>kharbouch</title>
+<title>المذكر والمؤنتbounce</title>
 <!-- write your code here -->
 <style>
-html,body{overflow:hidden}
-body {
-	
-	/* to add color to backgroun */
-	
-	    background-color: #A7DBF0;
-		overflow : hidden ;
-		
-  /* Disables pull-to-refresh but allows overscroll glow effects. */
-  overscroll-behavior-y: contain;
-}
-
-  #animation_container, #_preload_div_ {
+  #animation_container {
 	position:absolute;
 	margin:auto;
 	left:0;right:0;
@@ -34,14 +22,14 @@ body {
   }
 </style>
 <script src="zim_createjs.js"></script>
-<script src="kharbouch.js?1667501581923"></script>
+<script src="المذكر والمؤنتbounce.js?1650649632678"></script>
 <script>
 var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
 function init() {
 	canvas = document.getElementById("canvas");
 	anim_container = document.getElementById("animation_container");
 	dom_overlay_container = document.getElementById("dom_overlay_container");
-	var comp=AdobeAn.getComposition("3B07711F11CC574B8AA084AEC9DE16F5");
+	var comp=AdobeAn.getComposition("7B1FBFCDB39D17419239CACEC87E08F8");
 	var lib=comp.getLibrary();
 	var loader = new createjs.LoadQueue(false);
 	loader.addEventListener("fileload", function(evt){handleFileLoad(evt,comp)});
@@ -62,7 +50,7 @@ function handleComplete(evt,comp) {
 	for(i=0; i<ssMetadata.length; i++) {
 		ss[ssMetadata[i].name] = new createjs.SpriteSheet( {"images": [queue.getResult(ssMetadata[i].name)], "frames": ssMetadata[i].frames} )
 	}
-	exportRoot = new lib.kharbouch();
+	exportRoot = new lib.المذكروالمؤنتbounce();
 	stage = new lib.Stage(canvas);	
 	//Registers the "tick" event listener.
 	fnStartAnimation = function() {
@@ -79,8 +67,8 @@ function handleComplete(evt,comp) {
 <!-- write your code here -->
 </head>
 <body onload="init();" style="margin:0px;">
-	<div id="animation_container" style="background-color:rgba(242, 238, 237, 1.00); width:800px; height:500px">
-		<canvas id="canvas" width="800" height="500" style="position: absolute; display: block; background-color:rgba(242, 238, 237, 1.00);"></canvas>
+	<div id="animation_container" style="background-color:rgba(255, 255, 255, 1.00); width:800px; height:500px">
+		<canvas id="canvas" width="800" height="500" style="position: absolute; display: block; background-color:rgba(255, 255, 255, 1.00);"></canvas>
 		<div id="dom_overlay_container" style="pointer-events:none; overflow:hidden; width:800px; height:500px; position: absolute; left: 0px; top: 0px; display: block;">
 		</div>
 	</div>
